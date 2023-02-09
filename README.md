@@ -1,7 +1,7 @@
 # books
 some good books
 
-## operate systems book
+## operating systems book
 - Operating Systems - Three Easy Pieces.pdf
 
 ## network
